@@ -1,5 +1,7 @@
 # angular-custom-range-slider
 ==============
+
+[![Join the chat at https://gitter.im/DrMabuse23/angular-custom-range-slider](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DrMabuse23/angular-custom-range-slider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a slider control written using only [Angular.js](http://angularjs.org/) with no dependency on [jQuery](http://jquery.com/).
 
 ## Purpose
